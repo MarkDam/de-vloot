@@ -1,0 +1,132 @@
+  body {
+    background-color: white;
+      font-family: sans-serif;
+  }
+
+  img {
+    display: inline;
+  }
+
+  .img {
+    width: 215px;
+    height: 200px;
+    float: left;
+    margin-left: 15px;
+  }
+
+  #img1 {
+    float: left;
+    padding: 9px;
+  }
+
+  #img2 {
+    float: right;
+    padding: 9px;
+  }
+
+  #img3 {
+    float: left;
+    padding: 9px;
+  }
+
+  .img4 {
+    float: left;
+    padding: 7px;
+    margin-top: -5px;
+  }
+
+  .img5 {
+    float: left;
+    padding: 6px;
+  }
+
+  .img6 {
+    float: right;
+    padding: 3px;
+  }
+
+  #img7 {
+    float: right;
+    padding: 8px;
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: red;
+  }
+
+  .link {
+    position: absolute;
+    left: 360px;
+    bottom: 360px;
+  }
+
+  .link1 {
+    position: absolute;
+    left: 405px;
+    bottom: 360px;
+  }
+
+  .link2 {
+    position: absolute;
+    left: 510px;
+    bottom: 360px;
+  }
+
+  .link3 {
+    position: absolute;
+    left: 575px;
+    bottom: 360px;
+  }
+
+  .link4 {
+    position: absolute;
+    left: 705px;
+    bottom: 360px;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  h5 {
+    position: absolute;
+    margin-top: -190px;
+    left: 397px;
+  }
+
+  h2 {
+    margin-left: 10px;
+  }
+
+  .header {
+    background-color: rgb(154, 216, 215);
+    color: black;
+    padding: 15px;
+    margin-top: 230px;
+    height: 180px;
+    width: 98%;
+}
+
+  #header {
+    position: absolute;
+    left: 390px;
+    top: -16px;
+  }
+
+ .paragraph {
+   border-style: solid;
+   border-width: 0px;
+   background-color: white;
+   width: 560px;
+   position: relative;
+   left: 316px;
+   bottom: 35px;
+ }
+
+.absolute {
+  position: absolute;
+  left: 339px;
+  top: 0px;
+}
